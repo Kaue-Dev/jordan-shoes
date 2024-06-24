@@ -1,4 +1,4 @@
-# Jordan Shoes Collection
+# Jordan Shoes
 
 Este é um projeto de uma página de tênis da Nike, focado na coleção Jordan. A página foi desenvolvida utilizando React e está disponível para visualização no seguinte link: [Jordan Shoes Collection](https://jordan-shoes-topaz.vercel.app).
 
@@ -25,7 +25,7 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/seu-usuario/jordan-shoes-collection.git
+    git clone https://github.com/Kaue-Dev/jordan-shoes.git
     ```
 2. Navegue até o diretório do projeto:
     ```bash
