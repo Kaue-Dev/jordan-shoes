@@ -50,10 +50,6 @@ Ao acessar a aplicação, você verá a página principal exibindo a coleção d
 
 Contribuições são bem-vindas! Se você tiver alguma sugestão ou encontrar algum problema, por favor, abra uma issue ou envie um pull request.
 
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ---
 
 Desenvolvido por [Kauê Andrade Padilha](https://github.com/Kaue-Dev)
