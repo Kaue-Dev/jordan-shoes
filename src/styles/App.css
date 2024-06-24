@@ -1,0 +1,35 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  background-color: var(--gray);
+}
+
+.mainSectionTexts {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.mainSectionTexts h2 {
+  font-size: 32px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.mainSectionTexts p {
+  font-size: 24px;
+  font-weight: 400;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .mainSectionTexts h2 {
+    font-size: 24px;
+  }
+  .mainSectionTexts p {
+    font-size: 16px;
+  }
+}
